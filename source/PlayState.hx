@@ -1,21 +1,17 @@
 package;
 
 import flixel.FlxState;
-import flixel.text.FlxText;
 
-class PlayState extends FlxState
-{
-	override public function create()
-	{
-		super.create();
+class PlayState extends FlxState {
+  var player:Player;
 
-    var text = new FlxText(0, 0, 0, "Hello World", 64);
-    text.screenCenter();
-    add(text);
-	}
+  override public function create() {
+    player = new Player(30, 30);
+    add(player);
+    super.create();
+  }
 
-	override public function update(elapsed:Float)
-	{
-		super.update(elapsed);
-	}
+  override public function update(elapsed:Float) {
+    super.update(elapsed);
+  }
 }
