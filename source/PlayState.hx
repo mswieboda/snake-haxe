@@ -1,6 +1,8 @@
 package;
 
+import flixel.FlxG;
 import flixel.FlxState;
+import openfl.system.System;
 
 class PlayState extends FlxState {
   var player:Player;
@@ -13,5 +15,9 @@ class PlayState extends FlxState {
 
   override public function update(elapsed:Float) {
     super.update(elapsed);
+
+    if (FlxG.keys.anyJustPressed([ESCAPE])) {
+      System.exit(0);
+    }
   }
 }
