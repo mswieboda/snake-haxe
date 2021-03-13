@@ -1,0 +1,578 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"upd",
+				"update_cards_position"
+			],
+			[
+				"card",
+				"cards_to_foundation"
+			],
+			[
+				"el",
+				"elapsed"
+			],
+			[
+				"last",
+				"last_click_time"
+			],
+			[
+				"las",
+				"last_click_time"
+			],
+			[
+				"DOU",
+				"DOUBLE_CLICK_MILLISECONDS"
+			],
+			[
+				"doubl",
+				"double_click_time"
+			],
+			[
+				"move_",
+				"move_card_to_foundation"
+			],
+			[
+				"bac",
+				"backspace_delay"
+			],
+			[
+				"ba",
+				"backspace_delay"
+			],
+			[
+				"text",
+				"text_input"
+			],
+			[
+				"exi",
+				"exit_with_esc"
+			],
+			[
+				"pressed",
+				"pressed_delta"
+			],
+			[
+				"pres",
+				"pressed_delta"
+			],
+			[
+				"hei",
+				"height_depth"
+			],
+			[
+				"deal",
+				"deal_row_index"
+			],
+			[
+				"deal_",
+				"deal_index"
+			],
+			[
+				"deal_r",
+				"deal_row_index"
+			],
+			[
+				"Car",
+				"CardStack"
+			],
+			[
+				"Game",
+				"GameMode"
+			],
+			[
+				"Ga",
+				"GameMode"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/matt/code/crystal/cards/src/cards/popup.cr",
+		"/Users/matt/code/crystal/cards/src/cards/solitare/game_mode.cr",
+		"/Users/matt/code/crystal/cards/src/cards/game_mode.cr",
+		"/Users/matt/code/crystal/cards/src/cards/main.cr",
+		"/Users/matt/code/crystal/cards/src/cards/solitare/stack.cr",
+		"/Users/matt/code/crystal/cards/src/cards/solitare/foundation.cr",
+		"/Users/matt/code/crystal/cards/src/cards/card.cr",
+		"/Users/matt/code/crystal/cards/src/cards/card_stack.cr",
+		"/Users/matt/code/crystal/cards/src/cards/save_menu.cr",
+		"/Users/matt/code/crystal/cards/src/cards/solitare/waste.cr",
+		"/Users/matt/code/crystal/cards/src/cards/solitare/stock.cr",
+		"/Users/matt/code/crystal/game/src/game/image.cr",
+		"/Users/matt/code/crystal/game/src/game/texture.cr",
+		"/Users/matt/code/crystal/game/src/game/sprite.cr",
+		"/Users/matt/code/crystal/game/src/game/vector.cr",
+		"/Users/matt/code/crystal/game/shard.yml",
+		"/Users/matt/code/crystal/cards/src/cards/vector.cr",
+		"/Users/matt/code/crystal/cards/src/cards/chip.cr",
+		"/Users/matt/code/crystal/cards/src/cards/chip_stack.cr",
+		"/Users/matt/code/crystal/cards/src/cards/blackjack/hand.cr",
+		"/Users/matt/code/crystal/cards/src/cards/blackjack/seat.cr",
+		"/Users/matt/code/crystal/cards/src/cards/blackjack/manager.cr",
+		"/Users/matt/code/crystal/cards/src/cards/blackjack/seat_player.cr",
+		"/Users/matt/code/crystal/cards/src/cards/rank.cr",
+		"/Users/matt/code/crystal/cards/shard.yml",
+		"/Users/matt/code/crystal/cards/.tool-versions",
+		"/Users/matt/code/crystal/cards/src/cards/blackjack/card_player.cr",
+		"/Users/matt/code/crystal/cards/src/cards/blackjack/dealer.cr",
+		"/Users/matt/Library/Application Support/Sublime Text 3/Packages/User/Crystal.sublime-settings",
+		"/Users/matt/Library/Application Support/Sublime Text 3/Packages/Crystal/Crystal.sublime-settings",
+		"/Users/matt/code/crystal/cards/src/cards/deck.cr",
+		"/Users/matt/code/crystal/cards/src/cards/standard_deck.cr",
+		"/Users/matt/code/crystal/cards/README.md",
+		"/Users/matt/code/crystal/game/src/game/keys.cr",
+		"/Users/matt/code/crystal/game/src/game/game.cr",
+		"/Users/matt/code/crystal/game/examples/hello_world_example.cr",
+		"/Users/matt/code/crystal/game/src/game/mouse.cr",
+		"/Users/matt/code/crystal/game/src/game/text.cr",
+		"/Users/matt/code/crystal/game/src/game/text_input.cr",
+		"/Users/matt/code/crystal/game/src/game/utils.cr",
+		"/Users/matt/code/crystal/game/src/game.cr",
+		"/Users/matt/code/crystal/cards/src/cards/solitare/fan_stack.cr",
+		"/Users/matt/code/crystal/cards/src/cards/card_front.cr",
+		"/Users/matt/code/crystal/cards/src/cards/blackjack/game_mode.cr",
+		"/Users/matt/code/crystal/cards/src/cards/menu.cr",
+		"/Users/matt/code/crystal/cards/src/cards/menu_item.cr",
+		"/Users/matt/code/crystal/cards/src/cards/solitare/row_stack.cr",
+		"/Users/matt/code/crystal/cards/src/cards/blackjack/key.cr",
+		"/Users/matt/code/crystal/cards/src/cards/key.cr",
+		"/Users/matt/code/crystal/cards/shard.lock",
+		"/Users/matt/Library/Application Support/Sublime Text 3/Packages/User/h4x0r.sublime-color-scheme",
+		"/Users/matt/code/crystal/cards/src/cards/main_menu.cr",
+		"/Users/matt/code/crystal/cards/src/cards.cr",
+		"/Users/matt/code/crystal/cards/src/cards/blackjack/player.cr",
+		"/Users/matt/code/crystal/cards/src/cards/blackjack/chip_tray.cr",
+		"/Users/matt/code/crystal/cards/src/cards/blackjack/cpu_player.cr",
+		"/Users/matt/code/crystal/cards/src/cards/blackjack/chip.cr",
+		"/Users/matt/code/crystal/cards/src/cards/blackjack/card_stack.cr",
+		"/Users/matt/code/crystal/cards/src/cards/manager.cr",
+		"/Users/matt/code/crystal/cards/src/cards/blackjack.cr",
+		"/Users/matt/code/crystal/cards/LICENSE",
+		"/Users/matt/Library/Application Support/Sublime Text 3/Packages/User Color Schemes/h4x0r.sublime-color-scheme",
+		"/Users/matt/Library/Application Support/Sublime Text 3/Packages/User Color Schemes/Monokai.sublime-color-scheme",
+		"/Users/matt/.zshrc",
+		"/Users/matt/.ssh/config",
+		"/Users/matt/fresh-install-backup.txt",
+		"/Volumes/ExMattDrive/fresh-install-backup/readme.txt"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Snake.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"card.",
+				"src/cards/card.cr"
+			],
+			[
+				"found",
+				"src/cards/solitare/foundation.cr"
+			],
+			[
+				"card_st",
+				"src/cards/card_stack.cr"
+			],
+			[
+				"stack",
+				"src/cards/solitare/stack.cr"
+			],
+			[
+				"main",
+				"src/cards/main.cr"
+			],
+			[
+				"game",
+				"src/cards/game_mode.cr"
+			],
+			[
+				"opu",
+				"src/cards/popup.cr"
+			],
+			[
+				"sav",
+				"src/cards/save_menu.cr"
+			],
+			[
+				"soli",
+				"src/cards/solitare/game_mode.cr"
+			],
+			[
+				"stock",
+				"src/cards/solitare/stock.cr"
+			],
+			[
+				"was",
+				"src/cards/solitare/waste.cr"
+			],
+			[
+				"card_",
+				"src/cards/card_stack.cr"
+			],
+			[
+				"sol",
+				"src/cards/solitare/game_mode.cr"
+			],
+			[
+				"shar",
+				"shard.yml"
+			],
+			[
+				"sprite",
+				"src/game/sprite.cr"
+			],
+			[
+				"texture",
+				"src/game/texture.cr"
+			],
+			[
+				"ima",
+				"src/game/image.cr"
+			],
+			[
+				"vec",
+				"src/game/vector.cr"
+			],
+			[
+				"sol game",
+				"src/cards/solitare/game_mode.cr"
+			],
+			[
+				"card_stack",
+				"src/cards/card_stack.cr"
+			],
+			[
+				"card_sta",
+				"src/cards/card_stack.cr"
+			],
+			[
+				"rank",
+				"src/cards/rank.cr"
+			],
+			[
+				"card",
+				"src/cards/card.cr"
+			],
+			[
+				"seat_",
+				"src/cards/blackjack/seat_player.cr"
+			],
+			[
+				"chip",
+				"src/cards/chip_stack.cr"
+			],
+			[
+				"hand",
+				"src/cards/blackjack/hand.cr"
+			],
+			[
+				"card_pl",
+				"src/cards/blackjack/card_player.cr"
+			],
+			[
+				"deal",
+				"src/cards/blackjack/dealer.cr"
+			],
+			[
+				"blackjack man",
+				"src/cards/blackjack/manager.cr"
+			],
+			[
+				"foun",
+				"src/cards/solitare/foundation.cr"
+			],
+			[
+				"stand",
+				"src/cards/standard_deck.cr"
+			],
+			[
+				"deck",
+				"src/cards/deck.cr"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"key",
+				"src/game/keys.cr"
+			],
+			[
+				"text",
+				"src/game/text.cr"
+			],
+			[
+				"sh",
+				"shard.yml"
+			],
+			[
+				"uti",
+				"src/game/utils.cr"
+			],
+			[
+				"image",
+				"src/game/image.cr"
+			],
+			[
+				"mous",
+				"src/game/mouse.cr"
+			],
+			[
+				"spri",
+				"src/game/sprite.cr"
+			],
+			[
+				"sha",
+				"shard.yml"
+			],
+			[
+				"mouse",
+				"src/game/mouse.cr"
+			],
+			[
+				"fan",
+				"src/cards/solitare/fan_stack.cr"
+			],
+			[
+				"chip_",
+				"src/cards/chip_stack.cr"
+			],
+			[
+				"card_s",
+				"src/cards/card_stack.cr"
+			],
+			[
+				"row",
+				"src/cards/solitare/row_stack.cr"
+			],
+			[
+				"card_stac",
+				"src/cards/card_stack.cr"
+			],
+			[
+				"man",
+				"src/cards/blackjack/manager.cr"
+			],
+			[
+				"blackjack/game",
+				"src/cards/blackjack/game_mode.cr"
+			],
+			[
+				"menuit",
+				"src/cards/menu_item.cr"
+			],
+			[
+				"men",
+				"src/cards/menu.cr"
+			],
+			[
+				"mai",
+				"src/cards/main.cr"
+			],
+			[
+				"mana",
+				"src/cards/blackjack/manager.cr"
+			],
+			[
+				"shard",
+				"shard.yml"
+			],
+			[
+				"solit",
+				"src/cards/solitare/game_mode.cr"
+			],
+			[
+				"blackjack mana",
+				"src/cards/blackjack/manager.cr"
+			],
+			[
+				"solitare",
+				"src/cards/solitare/game_mode.cr"
+			],
+			[
+				"menu",
+				"src/cards/menu.cr"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
