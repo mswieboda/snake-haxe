@@ -18,12 +18,17 @@ cd snake-haxe
 
 ### Run
 run using `lime`
+
 `build` builds to `export` dir
+
 `run` runs builds in `export`
+
 `test` bulids and runs
 
 can be built to mutiple platforms
+
 `neko` seems easiest/quickest for quick dev testing
+
 `windows` and `mac` take a much longer time to fully compile
 
 ```
